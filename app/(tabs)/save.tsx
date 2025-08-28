@@ -6,8 +6,12 @@ const Save = () => {
   return (
     <SafeAreaView className="bg-primary flex-1 px-10">
       <View className="flex justify-center items-center flex-1 flex-col gap-5">
-        <Image source={icons.save} className="size-10" tintColor="#fff" />
-        <Text className="text-gray-500 text-base">Save</Text>
+        <Image source={icons.save} className="size-16" tintColor="#fff" />
+        <Text className="text-white text-2xl font-bold">Saved Movies</Text>
+        <Text className="text-gray-400 text-center text-base mt-2">
+          This feature is coming soon!
+        </Text>
+        <Text className="text-gray-500 text-sm mt-4">- Kiet Bui</Text>
       </View>
     </SafeAreaView>
   );
