@@ -20,6 +20,7 @@ A modern mobile application for browsing and discovering movies, built with Reac
 <p align="center">
   <img src="./assets/images/MainMenu.jpg" alt="Home Screen" width="300"/>
   <img src="./assets/images/Search.jpg" alt="Search Screen" width="300"/>
+  <img src="./assets/images/MovieInfo.jpg" alt="Movie Details" width="300"/>
 </p>
 
 ## 🛠️ Tech Stack
