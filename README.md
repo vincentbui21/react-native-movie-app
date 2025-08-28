@@ -2,7 +2,9 @@
 
 A modern mobile application for browsing and discovering movies, built with React Native and Expo. This app provides an intuitive interface for users to explore the latest movies and search for their favorites.
 
-![App Screenshot](./assets/images/MainMenu.jpg)
+<p align="center">
+  <img src="./assets/images/MainMenu.jpg" alt="App Screenshot" width="300"/>
+</p>
 
 ## ✨ Features
 
@@ -15,11 +17,10 @@ A modern mobile application for browsing and discovering movies, built with Reac
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home Screen](./assets/images/MainMenu.jpg)
-
-### Search Screen
-![Search Screen](./assets/images/Search.jpg)
+<p align="center">
+  <img src="./assets/images/MainMenu.jpg" alt="Home Screen" width="300"/>
+  <img src="./assets/images/Search.jpg" alt="Search Screen" width="300"/>
+</p>
 
 ## 🛠️ Tech Stack
 
